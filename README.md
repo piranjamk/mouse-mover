@@ -1,5 +1,5 @@
-# mouse-mover-v.1.0
-AUTOMATIC MOUSE MOVER WITH SCROLL
+# MOUSE-MOVER-V.1.0
+AUTOMATIC MOUSE MOVER WITH SCROLLING
 ## Technologies:
 Project is created with:
 * Python: version 3.9.2
