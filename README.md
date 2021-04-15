@@ -14,4 +14,4 @@ Project is created with:
 ## Instructions
 * Run the program with the `program.cmd` file
 * Click on the program which will be active during mouse moving (you still can change it while mouse-mover is running)
-* To stop the program press 'q' or 'esc' key for a while
+* To stop the program press `q` or `esc` key for a while
