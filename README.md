@@ -1,5 +1,7 @@
 # MOUSE-MOVER-V.1.0
 AUTOMATIC MOUSE MOVER WITH SCROLLING
+## Note
+Mouse mover currently designed only for Windows users
 ## Technologies:
 Project is created with:
 * Python: version 3.9.2
