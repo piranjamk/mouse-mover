@@ -8,7 +8,8 @@ Project is created with:
 ## Setup
 * Download and install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/)
 * Press WinKey+R and type CMD
-* In CMD type commands: `pip install keyboard` and `pip install pyautogui`
+* In CMD type commands: `pip install keyboard` and press enter
+* In CMD type command: `pip install pyautogui` and press enter
 * Download program.py and program.cmd and put it together in same directory
 * To run program just click on the `program.cmd` file
 ## Instructions
