@@ -1,12 +1,11 @@
 # MOUSE-MOVER-V.1.0
 AUTOMATIC MOUSE MOVER WITH SCROLLING
-## Note
-Mouse mover currently designed only for Windows users
 ## Technologies:
 Project is created with:
 * Python: version 3.9.2
 ## Setup
 * Download and install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/)
+(Add Python to PATH)
 * Press WinKey+R and type CMD
 * In CMD type commands: `pip install keyboard` and press enter
 * In CMD type command: `pip install pyautogui` and press enter
